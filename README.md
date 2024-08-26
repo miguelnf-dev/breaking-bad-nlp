@@ -1,4 +1,6 @@
-# Breaking Bad Theme Classifier (images/bb3.png)
+# Breaking Bad Theme Classifier 
+
+![Breaking Bad Theme Classifier](images/bb3.png)
 
 This project analyzes the scripts of the TV series "Breaking Bad" to classify and visualize the prevalence of different themes throughout the show.
 
